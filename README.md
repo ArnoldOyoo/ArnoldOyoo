@@ -1,5 +1,5 @@
 # 🗨🙎🏿‍♂️ About Me:
-👋 Hi, I’m Oyoo<br>💻 Developer | Game dev Enthusiast<br>🚀 Building projects that make an impact<br>🎮 Passionate about Games and Software Development
+👋 Hi, I’m Oyoo<br>💻Software, Dev Ops and Cloud Enginneer <br>🚀 Building projects that make an impact<br>🎮 Passionate about Games and Software Development
 
 
 ## 🌐 Socials:
